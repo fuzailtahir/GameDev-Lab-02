@@ -2,5 +2,5 @@
 
 Hands on Git basics
 
-Player Speed = 4
+Player Speed = 6
 
